@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/source.gif" align="right" width="400" height="250">
 
 ### Hi there, I' Murat 👋
 
